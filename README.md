@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdukodir</h1>
-<h3 align="center">🚀 Full Stack & AI Engineer | MERN & NestJS Specialist</h3>
+<h3 align="center">🚀 Full Stack & AI Engineer | MERN & NestJS Specialist | 4+ Years Experience</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+NestJS+%7C+GraphQL+%7C+MongoDB;Building+Scalable+Web+Applications;AI+Enthusiast" />
@@ -13,7 +13,7 @@
 
 ## 🧠 About Me
 
-- 💻 Full Stack & AI Engineer specialized in the **MERN stack** and **NestJS + GraphQL**
+- 💻 Full Stack & AI Engineer specialized in the **MERN stack** and **NestJS + GraphQL** with 3+ Years Experience
 - 💼 Full Stack Developer **Freelance**
 - ⚡ Building **scalable, production-grade web applications** — from monoliths to microservices
 - 🤖 Growing focus on **AI integrations** (Gemini, OpenAI) and **Python/FastAPI**
@@ -55,7 +55,13 @@ PyTorch, OpenCV, NumPy, Pandas, Matplotlib, RAG, Google Gemini API, OpenAI API, 
 
 ### 🔌 Integrations
 
-Clerk, Stripe, Cloudinary, Nodemailer, Resend
+<p>
+  <img src="https://img.shields.io/badge/Clerk-000000?style=for-the-badge&logo=clerk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-000000?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudinary-000000?style=for-the-badge&logo=cloudinary&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nodemailer-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white" />
+</p>
 
 ---
 
