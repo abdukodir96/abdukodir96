@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdukodir</h1>
-<h3 align="center">🚀 Full Stack & AI Engineer | MERN & NestJS Specialist | 4+ Years Experience</h3>
+<h3 align="center">🚀 Full Stack & AI Engineer | MERN & NestJS Specialist | 3+ Years Experience</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+NestJS+%7C+GraphQL+%7C+MongoDB;Building+Scalable+Web+Applications;AI+Enthusiast" />
