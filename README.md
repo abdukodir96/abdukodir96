@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdukodir96&label=Profile+views&color=0e75b6&style=flat" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=abdukodir96.abdukodir96" />
 </p>
 
 ---
@@ -141,12 +141,12 @@ Korean, English, Uzbek, Russian (elementary level)
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdukodir96&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
+  <img width="49%" src="./profile/stats.svg" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=abdukodir96&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdukodir96&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" />
+  <img width="60%" src="./profile/top-langs.svg" />
 </p>
 
 ---
