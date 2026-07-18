@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack & AI Engineer | MERN & NestJS Specialist | 3+ Years Experience</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DevOps;AI+%7C+Engineer;Building+Scalable+Web+Applications;AI+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DevOps;AI+Engineer;Building+Scalable+Web+Applications;AI+Enthusiast" />
 </p>
 
 <p align="center">
