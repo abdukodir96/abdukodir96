@@ -13,6 +13,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Debug token access
+        run: |
+          echo "REST /user:"
+          curl -s -o /dev/null -w "%{http_code}\n" -H "Authorization: token ${{ secrets.GH_STATS_TOKEN }}" https://api.github.com/user
+          echo "GraphQL viewer:"
+          curl -s -H "Authorization: bearer ${{ secrets.GH_STATS_TOKEN }}" -H "Content-Type: application/json" -d '{"query":"{ viewer { login } }"}' https://api.github.com/graphql
+
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -20,7 +27,6 @@ jobs:
           options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF
           path: profile/stats.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
-          fail_on_error: true
 
       - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v1
