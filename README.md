@@ -1,185 +1,139 @@
-<h1 align="center">Hi 👋, I'm Abdukodir</h1>
-<h3 align="center">🚀 Full Stack & AI Engineer | MERN & NestJS Specialist | 4+ Years Experience</h3>
+<h1 align="center">Abdukodir Sheraliev</h1>
+
+<h3 align="center">Full-Stack & AI Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+NestJS+%7C+GraphQL+%7C+MongoDB;Building+Scalable+Web+Applications;AI+Enthusiast" />
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=abdukodir96.abdukodir96" />
-</p>
-
----
-
-## 🧠 About Me
-
-- 💻 Full Stack & AI Engineer specialized in the **MERN stack** and **NestJS + GraphQL** with 3+ Years Experience
-- 💼 Full Stack Developer **Freelance**
-- ⚡ Building **scalable, production-grade web applications** — from monoliths to microservices
-- 🤖 Growing focus on **AI integrations** (Gemini, OpenAI) and **Python/FastAPI**
-- 🤝 Open to collaboration on interesting full-stack & AI projects
-
----
-
-## 🚀 Tech Stack
-
-### ⚙️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,python,graphql,mongodb,postgres,mysql,redis" />
-</p>
-
-NodeJS, NestJS, ExpressJS, FastAPI, Python, GraphQL (Apollo Server), REST API, MongoDB, Mongoose, PostgreSQL, Prisma, MySQL, Redis, Express-Session, JWT, Bcryptjs, Multer, Socket.IO, Cookie Parser, Dotenv, Form-Data, SQLAlchemy
-
----
-
-### 🖥 Front-End
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,vite,redux,threejs,tailwind,jquery" />
-</p>
-
-HTML, CSS, SASS, JavaScript, TypeScript, EJS, ReactJS, Next.js, Vite, Redux, Zustand, Context API, React Native, Apollo Client, JQuery, Axios, Socket.io-Client, Tailwind CSS, Sweetalert2, Sonner, Animejs, React-Router-Dom, Swiper, Motion-Framer, Typed.js, Three.js, TUI Editor, TViewer
-
----
-
-### 🧠 AI / ML / Agentic
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv,python" />
-</p>
-
-PyTorch, OpenCV, NumPy, Pandas, Matplotlib, RAG, Google Gemini API, OpenAI API, python-telegram-bot, APScheduler, Google Colab, MobileNet
-
----
-
-### 🔌 Integrations
-
-<p>
-  <img src="https://img.shields.io/badge/Clerk-000000?style=for-the-badge&logo=clerk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stripe-000000?style=for-the-badge&logo=stripe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudinary-000000?style=for-the-badge&logo=cloudinary&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nodemailer-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white" />
-</p>
-
----
-
-### 🧰 DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,nginx,docker,github" />
-</p>
-
-Linux (Ubuntu), Nginx, DNS, Firewall, Docker, Docker Compose, Let's Encrypt / Certbot, PM2, GitHub Pages, Render
-
----
-
-### 🏗 Patterns
-
-MVC, Monorepo, Middleware, Dependency Injection, Decorators
-
----
-
-### 🛠 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,figma" />
-</p>
-
-VSCode, Cursor, Postman, Yarn, NVM, NPM, Z Shell, FileZilla, GitHub, MongoDB Compass, Figma
-
----
-
-### 🌍 Languages
-
-Korean, English, Uzbek, Russian (elementary level)
-
----
-
-## 🔥 Featured Projects
-
-### 🏥 MediBridge
-
-🔹 Microservice-based medical tourism marketplace connecting international patients with Korean clinics
-🔹 5 services with RabbitMQ + TCP transport, NestJS + GraphQL + MongoDB Atlas
-🔹 JWT auth, RolesGuard, clinic verification flow
-
----
-
-### 🤝 NearHelp
-
-🔹 NestJS monorepo help/services marketplace — **live at [nearhelps.com](https://nearhelps.com)**
-🔹 Multilingual platform with AI-powered semantic search
-🔹 GraphQL, MongoDB, Socket.io
-
----
-
-### 🏨 QuickStay
-
-🔹 MERN-stack hotel booking platform — **live at [quickstayhotel.com](https://quickstayhotel.com)**
-🔹 Stripe payments with webhook verification, Clerk authentication
-
----
-
-### 📈 AI Habit Tracker
-
-🔹 AI-powered habit tracking app — **live at [aihabittracker.online](https://aihabittracker.online)**
-🔹 React 19 + Vite + Tailwind v4, Gemini-powered insights (RAG-lite)
-🔹 Full custom backend with JWT auth
-
----
-
-### ☕ Caffiora
-
-🔹 Coffee shop ordering application with admin panel
-🔹 React + TypeScript + Zustand frontend, Node/Express/MongoDB MVC backend
-🔹 Role-based access (User/Admin), order tracking, VIP customer system
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="./profile/stats.svg" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=abdukodir96&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+  TypeScript • React • Next.js • NestJS • Python • GraphQL • Docker
 </p>
 
 <p align="center">
-  <img width="60%" src="./profile/top-langs.svg" />
+  <a href="https://abdukodir96.github.io">Portfolio</a>
+  •
+  <a href="https://github.com/abdukodir96">GitHub</a>
+  •
+  <a href="https://t.me/abdukodir9796">Telegram</a>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## About Me
+
+Full-Stack & AI Engineer with 3+ years of experience building scalable web applications, AI-powered platforms, and production-ready backend systems.
+
+- Design secure RESTful and GraphQL APIs
+- Build full-stack applications with TypeScript, React, Next.js, NestJS, and Node.js
+- Develop backend services with Python and FastAPI
+- Deploy and operate applications using Docker, Linux, Nginx, and PM2
+- Integrate OpenAI, Google Gemini, PyTorch, OpenCV, and OCR technologies
+- Architect and deliver software products from concept to production
+
+Currently based in South Korea and open to Full-Stack, Backend, and AI Engineering opportunities.
+
+---
+
+## Core Technologies
+
+| Area             | Technologies                                                             |
+| ---------------- | ------------------------------------------------------------------------ |
+| **Languages**    | TypeScript, JavaScript, Python                                           |
+| **Frontend**     | React, Next.js, HTML5, CSS3, Tailwind CSS, Material UI                   |
+| **Backend**      | Node.js, NestJS, Express.js, FastAPI, RESTful APIs, GraphQL, Socket.IO   |
+| **Databases**    | MongoDB, PostgreSQL, MySQL, Redis, Prisma, Mongoose                      |
+| **DevOps**       | Docker, Linux, Nginx, PM2, Git, GitHub, Postman                          |
+| **AI & ML**      | OpenAI API, Google Gemini API, PyTorch, OpenCV, OCR, LLM Integration     |
+| **Architecture** | Service-Oriented Architecture, MVC, Monorepo, RBAC, Dependency Injection |
+
+---
+
+## Featured Project
+
+### MediBridge — AI-Powered Medical Tourism Platform
+
+Flagship engineering project focused on connecting international patients with verified hospitals and clinics in South Korea.
+
+**Engineering highlights:**
+
+- Service-oriented architecture supporting patient, clinic, hospital, and administrator workflows
+- Secure authentication and role-based access control
+- RESTful API and GraphQL service design
+- AI-assisted multilingual medical communication
+- Appointment booking and escrow-based payment workflows
+- Real-time messaging between patients and healthcare providers
+- Docker-based deployment architecture
+
+**Tech Stack:**  
+React • Next.js • NestJS • TypeScript • GraphQL • MongoDB • Redis • Python • FastAPI • Docker • OpenAI API • Google Gemini API
+
+---
+
+## Selected Projects
+
+### NearHelp — Community Assistance Platform
+
+Location-based community platform that helps users discover and connect with nearby services through scalable APIs and real-time interactions.
+
+**Tech Stack:** Next.js • NestJS • GraphQL • MongoDB • Docker • OpenAI API • Google Gemini API
+
+**Live:** [nearhelps.com](https://nearhelps.com)
+
+---
+
+### QuickStay — Hotel Booking Platform
+
+Full-stack hotel booking platform featuring secure authentication, online payments, room management, reservation workflows, and an owner administration dashboard.
+
+**Tech Stack:** React • Express.js • MongoDB • Clerk • Stripe • Cloudinary • Tailwind CSS
+
+**Live:** [quickstayhotel.com](https://quickstayhotel.com)
+
+---
+
+### AI Habit Tracker — AI-Powered Productivity Platform
+
+AI-powered productivity platform that provides personalized recommendations, intelligent progress tracking, and data-driven habit insights.
+
+**Tech Stack:** React • FastAPI • Python • OpenAI API • Google Gemini API
+
+**Live:** [aihabittracker.online](https://aihabittracker.online)
+
+---
+
+## Professional Experience
+
+### Full-Stack & DevOps Engineer
+
+**Digital City IT Center**
+
+Built scalable web and AI applications, developed RESTful and GraphQL services, integrated databases, and managed production deployment using Docker, Nginx, PM2, and Linux.
+
+### Backend & Frontend Developer
+
+**Atlantis Gravity**
+
+Developed and maintained full-stack web applications using React, Next.js, Node.js, Express.js, Python, MongoDB, and MySQL.
+
+---
+
+## Languages
+
+- Uzbek — Native
+- Korean — Advanced, TOPIK Level 6
+- English — Advanced, Business Communication
+- Russian — Elementary
+
+---
+
+## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdukodir96&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF" />
+  <img width="49%" src="./profile/stats.svg" alt="Abdukodir's GitHub statistics" />
+  <img width="49%" src="./profile/top-langs.svg" alt="Most used programming languages" />
 </p>
 
 ---
 
-## 🧠 Currently Learning
+## Contact
 
-- Microservice Architecture at Scale
-- AI Agents & RAG Systems
-- Advanced System Design
-
----
-
-## 💬 Quote
-
-> "Code. Build. Scale. Repeat."
-
----
-
-## 🌐 Connect with me
-
-<p>
-  <a href="https://github.com/abdukodir96">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://t.me/abdukodir9796">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram" />
-  </a>
-</p>
+- **Portfolio:** [abdukodir96.github.io](https://abdukodir96.github.io)
+- **GitHub:** [github.com/abdukodir96](https://github.com/abdukodir96)
+- **Telegram:** [@abdukodir9796](https://t.me/abdukodir9796)
