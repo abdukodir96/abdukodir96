@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://abdukodir96.github.io">Portfolio</a>
+  <a href="https://abdukodir96.github.io/Portfolio-Website_React/">Portfolio</a>
   •
   <a href="https://github.com/abdukodir96">GitHub</a>
   •
@@ -134,6 +134,6 @@ Developed and maintained full-stack web applications using React, Next.js, Node.
 
 ## Contact
 
-- **Portfolio:** [abdukodir96.github.io](https://abdukodir96.github.io)
+- **Portfolio:** [abdukodir96.github.io/Portfolio-Website_React](https://abdukodir96.github.io/Portfolio-Website_React/)
 - **GitHub:** [github.com/abdukodir96](https://github.com/abdukodir96)
 - **Telegram:** [@abdukodir9796](https://t.me/abdukodir9796)
