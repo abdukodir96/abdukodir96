@@ -1,18 +1,44 @@
-<h1 align="center">Abdukodir Sheraliev</h1>
+<div align="center">
 
-<h3 align="center">Full-Stack & AI Engineer</h3>
+# Hi there 👋, I'm Abdukodir Sheraliev
 
-<p align="center">
-  TypeScript • React • Next.js • NestJS • Python • FastAPI • AI/RAG • Docker
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=520&lines=Full-Stack+%26+AI+Engineer;Building+AI-powered+SaaS+platforms;React+%7C+Next.js+%7C+NestJS+%7C+FastAPI" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://abdukodir96.github.io/Portfolio-Website_React/">Portfolio</a>
-  •
-  <a href="https://github.com/abdukodir96">GitHub</a>
-  •
-  <a href="https://t.me/abdukodir9796">Telegram</a>
-</p>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=abdukodir96.abdukodir96" alt="Profile views" />
+
+[Portfolio](https://abdukodir96.github.io/Portfolio-Website_React/) • [GitHub](https://github.com/abdukodir96) • [Telegram](https://t.me/abdukodir9796)
+
+</div>
+
+## 🛠 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,ts,js,python,fastapi,mongodb,postgres,docker,git&perline=12" alt="Tech stack" />
+</div>
+
+## 📊 Stats
+
+<div align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdukodir96&theme=tokyonight" alt="GitHub stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdukodir96&theme=tokyonight" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=abdukodir96&theme=tokyonight&hide_border=true&background=00000000" alt="Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdukodir96&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true" alt="Activity graph" />
+</div>
+
+## 🐍 Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/abdukodir96/abdukodir96/output/github-contribution-grid-snake-dark.svg">
+  <img alt="contribution snake"
+    src="https://raw.githubusercontent.com/abdukodir96/abdukodir96/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
@@ -204,15 +230,6 @@ Collaborated through Git and GitHub-based monorepo workflows while implementing 
 - Korean — Advanced, TOPIK Level 6
 - English — Advanced, Business Communication
 - Russian — Elementary
-
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdukodir96&show_icons=true&theme=default&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdukodir96&layout=compact&hide_border=true" />
-</p>
 
 ---
 
