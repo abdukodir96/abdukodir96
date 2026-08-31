@@ -27,10 +27,6 @@
   <img src="https://streak-stats.demolab.com?user=abdukodir96&theme=tokyonight&hide_border=true&background=00000000" alt="Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdukodir96&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true" alt="Activity graph" />
-</div>
-
 ## 🐍 Contributions
 
 <picture>
